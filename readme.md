@@ -2,7 +2,9 @@
 "AndroAnalyzer Dataloader" is a compilation of four publicly available datasets that we used in our paper, including Bataci's dataset, AndroVul dataset, Drebin-215 dataset, Malgenome-215 dataset, and a feature dataset collected by our proposed framework (which includes CSV files and sha256 hashes).
 
 # Installation
-> pip install git+https://github.com/NgocTruongNguyen/androanalyzer_dataloader.git
+```sh
+pip install git+https://github.com/NgocTruongNguyen/androanalyzer_dataloader.git
+```
 
 # Instructions
 
